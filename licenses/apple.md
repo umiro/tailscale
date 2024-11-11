@@ -29,7 +29,6 @@ See also the dependencies in the [Tailscale CLI][].
  - [github.com/aws/smithy-go](https://pkg.go.dev/github.com/aws/smithy-go) ([Apache-2.0](https://github.com/aws/smithy-go/blob/v1.20.4/LICENSE))
  - [github.com/aws/smithy-go/internal/sync/singleflight](https://pkg.go.dev/github.com/aws/smithy-go/internal/sync/singleflight) ([BSD-3-Clause](https://github.com/aws/smithy-go/blob/v1.20.4/internal/sync/singleflight/LICENSE))
  - [github.com/bits-and-blooms/bitset](https://pkg.go.dev/github.com/bits-and-blooms/bitset) ([BSD-3-Clause](https://github.com/bits-and-blooms/bitset/blob/v1.13.0/LICENSE))
- - [github.com/coder/websocket](https://pkg.go.dev/github.com/coder/websocket) ([ISC](https://github.com/coder/websocket/blob/v1.8.12/LICENSE.txt))
  - [github.com/coreos/go-iptables/iptables](https://pkg.go.dev/github.com/coreos/go-iptables/iptables) ([Apache-2.0](https://github.com/coreos/go-iptables/blob/65c67c9f46e6/LICENSE))
  - [github.com/digitalocean/go-smbios/smbios](https://pkg.go.dev/github.com/digitalocean/go-smbios/smbios) ([Apache-2.0](https://github.com/digitalocean/go-smbios/blob/390a4f403a8e/LICENSE.md))
  - [github.com/djherbis/times](https://pkg.go.dev/github.com/djherbis/times) ([MIT](https://github.com/djherbis/times/blob/v1.6.0/LICENSE))
